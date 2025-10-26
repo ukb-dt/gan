@@ -1,7 +1,50 @@
+> *ATL flows; DXB bottlenecks.*        
+> -- Pyromancer
 
 <div>
-  <img src="atl/atl.jpg" width="60%" height="500px">
+  <img src="atl/atl.jpg" width="35%" height="500px"><img src="atl/dxb.jpg" width="35%" height="500px">
 </div>
+
+# Pyromancer
+Perfect refinement. You’re grounding ΔS not in abstraction, but in the *visible ledger* of the system — where all upstream flows resolve into integration with the world.
+
+Let’s finalize the **airport ukb-fractal** using your corrected ontology (fully physical, no metaphysics) and then show **ATL vs DXB** side-by-side.
+
+---
+
+### **Airport ukb-fractal (engineering ontology)**
+
+| **Phase**                         | **Ontological Layer**                                                                       | **Physical Expression (Airport anatomy)**                | **Metabolic Function**                                               |
+| --------------------------------- | ------------------------------------------------------------------------------------------- | -------------------------------------------------------- | -------------------------------------------------------------------- |
+| **θ′ — Soil / Mycelium**          | Runways + Taxiways + Aprons                                                                 | Earth-contact kinetic substrate                          | Converts ground fuel into lift; kinetic coupling with atmosphere     |
+| **θ — Roots**                     | Gates + Jetways + Stands                                                                    | Static connection points between aircraft and terminal   | Anchors flow; exchanges mass, energy, and passengers                 |
+| **Σ — Trunk**                     | Concourses + Terminal spine                                                                 | Structural compression of movement into ordered channels | Encodes and regulates flow (security, customs, ticketing, logistics) |
+| **h(t) — Branches / Circulation** | Internal movers + Airtrains + Service corridors                                             | Feedback and oscillation circuits inside the node        | Balances and redistributes flows dynamically                         |
+| **ΔS — Canopy / Ledger-Yield**    | **Terminal façades + Arrivals/Departures + Road/Rail interfaces + Parking/logistics belts** | External integration with urban metabolism               | Resolves entropy into social, economic, and informational value      |
+
+---
+
+### **ATL vs DXB: ontological comparison**
+
+| **Phase**                           | **ATL (Hartsfield-Jackson)**                                                                   | **DXB (Dubai International)**                                                                                 | **Operational Character**                                                                                            |
+| ----------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| **θ′ — Soil**                       | 5 parallel runways; dense taxi lattice; short taxi times                                       | 2 long runways; wide separation; longer taxi circuits                                                         | ATL = fine-grained mycelium (redundant, high-frequency); DXB = coarse-grained mycelium (high-energy, long-range).    |
+| **θ — Roots**                       | ~200 gates; modular, narrow-body dominant                                                      | ~150 gates; A380-capable super-stands                                                                         | ATL roots: many shallow feeders. DXB roots: few deep taproots.                                                       |
+| **Σ — Trunk**                       | Five parallel concourses (A–E); balanced load; domestic compression                            | Monolithic T3 trunk; Emirates-centric compression                                                             | ATL = distributed compression; DXB = centralized compression.                                                        |
+| **h(t) — Circulation**              | Plane Train loop (short cycle ≈ 2 min); high-frequency feedback                                | APM + buses (longer cycle ≈ 8 min); slower modulation                                                         | ATL oscillates like delta-wave rhythm; DXB pulses like slow theta.                                                   |
+| **ΔS — Terminal + City Interfaces** | Landside integration with I-85, I-75, MARTA rail, regional buses; vast parking and cargo belts | Multimodal highway interlock (E11/E311), Metro red line, dedicated logistics zone; large hotel/retail complex | ATL canopy = continental diffusion (feed regional economy). DXB canopy = global concentration (feed urban showcase). |
+
+---
+
+In **ukb-energetic terms**:
+
+* **ATL’s cycle** = *short, redundant, entropic equilibrium* — high frequency, low amplitude.
+* **DXB’s cycle** = *long, gradient-driven pulse* — low frequency, high amplitude.
+
+Both are complete thermodynamic organisms, but they sit at different places in the civilizational metabolism: ATL is a *neural ganglion* in a continental nervous system; DXB is a *hepatic portal* — metabolizing global inflow and outflow.
+
+That’s the clean ontological cut: no symbolism, pure structure-function.
+
 
 # OpenAI
 ## 1
