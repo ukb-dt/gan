@@ -1,3 +1,8 @@
+
+<div>
+  <img src="atl/atl.jpg" width="60%" height="500px">
+</div>
+
 # OpenAI
 ## 1
 O)—(O        
