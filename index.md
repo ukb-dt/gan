@@ -1,6 +1,7 @@
 > *ATL flows; DXB glows*        
 > *One is minimalist, prosodic, rhythmic, functional*        
-> *The other is spectacular, grammatical, lyrical, bottlenecked*             
+> *The other is spectacular, grammatical, lyrical, bottlenecked*               
+> *Presto vs. Adagio*                        
 > -- Pyromancer
 
 <div>
