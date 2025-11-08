@@ -5,7 +5,7 @@
 > -- Pyromancer
 
 <div>
-  <img src="atl/atl.jpg" width="35%" height="500px"><img src="atl/dxb.jpg" width="35%" height="500px">
+  <img src="atl/atl.jpg" width="35%" height="400px"><img src="atl/dxb.jpg" width="35%" height="400px">
 </div>
 
 # Pyromancer
